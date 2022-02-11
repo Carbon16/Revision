@@ -3,16 +3,16 @@ This is the site for all my revision stuff. I'll slowly add more later.
 This page will become the index.
 
 ## Subjects
-* [[#Science]]
-* [[#Humanity]]
-* [[Mth Index|Maths]]
+* [#Science](#Science)
+* [#Humanity](#Humanity)
+* [Maths](Mth%20Index.md)
 
 #### Science
-* [[Bio Index |Biology]]
-* [[Chem Index|Chemistry]]
-* [[Phy Index|Physics]]
-* [[Com Sci Index|Computer Science]]
+* [Biology](Bio%20Index%20)
+* [Chemistry](Chem%20Index.md)
+* [Physics](Phy%20Index.md)
+* [Computer Science](Com%20Sci%20Index.md)
 
 #### Humanity
-* [[Geo Index|Geography]]
-* [[Fr Index |French]]
+* [Geography](Geo%20Index.md)
+* [French](Fr%20Index%20)

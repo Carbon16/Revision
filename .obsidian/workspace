@@ -7,8 +7,12 @@
         "id": "fbb2c09798ac58df",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Science/Bio/Bio Index.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Science",
+                "query": "tag:#Humanity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Bio/Bio Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +90,13 @@
   },
   "active": "fbb2c09798ac58df",
   "lastOpenFiles": [
-    "Maths/Mth Index.md",
+    "Science/Bio/Bio Index.md",
     "README.md",
-    "Humanities/Geography/Geo Index.md",
     "Humanities/French/Fr Index.md",
+    "Maths/Mth Index.md",
+    "Humanities/Geography/Geo Index.md",
     "Science/Com Sci/Com Sci Index.md",
     "Science/Phy/Phy Index.md",
-    "Science/Chem/Chem Index.md",
-    "Science/Bio/Bio Index.md"
+    "Science/Chem/Chem Index.md"
   ]
 }
