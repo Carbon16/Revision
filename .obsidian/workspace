@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,9 +84,9 @@
   },
   "active": "fbb2c09798ac58df",
   "lastOpenFiles": [
+    "Maths/Mth Index.md",
     "README.md",
     "Humanities/Geography/Geo Index.md",
-    "Maths/Mth Index.md",
     "Humanities/French/Fr Index.md",
     "Science/Com Sci/Com Sci Index.md",
     "Science/Phy/Phy Index.md",

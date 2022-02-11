@@ -13,6 +13,6 @@ This page will become the index.
 * [[Phy Index|Physics]]
 * [[Com Sci Index|Computer Science]]
 
-#### Humanities
+#### Humanity
 * [[Geo Index|Geography]]
 * [[Fr Index |French]]
