@@ -5,7 +5,7 @@ This page will become the index.
 ## Subjects
 * [Science](#Science)
 * [Humanity](#Humanity)
-* [Maths](Mth%20Index.md)
+* [Maths](Maths/Mth%20Index.md)
 
 #### Science
 * [Biology](Bio%20Index%20)
@@ -14,5 +14,5 @@ This page will become the index.
 * [Computer Science](Com%20Sci%20Index.md)
 
 #### Humanity
-* [Geography](Geo%20Index.md)
-* [French](Fr%20Index%20)
+* [Geography](Humanities/Geo%20Index.md)
+* [French](Humanities/French/Fr%20Index%20)
