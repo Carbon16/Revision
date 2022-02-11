@@ -3,8 +3,8 @@ This is the site for all my revision stuff. I'll slowly add more later.
 This page will become the index.
 
 ## Subjects
-* [#Science](#Science)
-* [#Humanity](#Humanity)
+* [Science](#Science)
+* [Humanity](#Humanity)
 * [Maths](Mth%20Index.md)
 
 #### Science
