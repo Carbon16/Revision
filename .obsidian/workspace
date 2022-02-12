@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb2c09798ac58df",
+        "id": "0857bd21da3b1617",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Science",
+                "query": "tag:#Timetable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +45,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "28f4a68861aa1422",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +76,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "010b70d4ed3fa30b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,16 +92,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbb2c09798ac58df",
+  "active": "0857bd21da3b1617",
   "lastOpenFiles": [
-    "README.md",
-    "Humanities/Geo Index.md",
-    "Humanities/French/Fr Index.md",
-    "Maths/Mth Index.md",
     "Science/Com Sci/Com Sci Index.md",
-    "Science/Chem/Chem Index.md",
+    "README.md",
+    "Daily Summary/12.02.22.md",
     "Science/Phy/Phy Index.md",
-    "Science/Bio/Bio Index.md",
-    "Humanities/Geography/Geo Index.md"
+    "Maths/Mth Index.md",
+    "Files/5th Form March Trial Exam 2022 Revision List.pdf",
+    "Files/IMG_2947.jpg",
+    "Daily Summary/Daily Index.md",
+    "Humanities/French/Fr Index.md",
+    "Humanities/French/Speaking.md"
   ]
 }
