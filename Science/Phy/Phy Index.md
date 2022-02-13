@@ -16,6 +16,6 @@ This is the physics index. Most (all) of the physics notes are one one note. Thi
 - [ ] Optics
 
 ## Sessions
-1.  [[12.02.22]]
+1.  [12.02.22](12.02.22.md)
 
 #todo #Index 

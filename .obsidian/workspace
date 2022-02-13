@@ -7,8 +7,10 @@
         "id": "0857bd21da3b1617",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Files/IMG_2947.jpg"
+          }
         }
       }
     ],
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Timetable",
+                "query": "tag:#General",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,13 +47,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "28f4a68861aa1422",
@@ -67,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/IMG_2947.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +95,15 @@
   },
   "active": "0857bd21da3b1617",
   "lastOpenFiles": [
-    "Science/Com Sci/Com Sci Index.md",
+    "Files/IMG_2947.jpg",
+    "Daily Summary/13.02.22.md",
     "README.md",
     "Daily Summary/12.02.22.md",
-    "Science/Phy/Phy Index.md",
+    "Humanities/English/Eng Index.md",
+    "Humanities/English/12 Mark Q 01.md",
     "Maths/Mth Index.md",
-    "Files/5th Form March Trial Exam 2022 Revision List.pdf",
-    "Files/IMG_2947.jpg",
-    "Daily Summary/Daily Index.md",
     "Humanities/French/Fr Index.md",
-    "Humanities/French/Speaking.md"
+    "Science/Phy/Phy Index.md",
+    "Science/Com Sci/Com Sci Index.md"
   ]
 }

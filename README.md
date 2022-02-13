@@ -11,7 +11,7 @@ This page will become the index.
 
 ## Timetable
 
-| **Subject**      | **Count** | **TRGT** | [**SAT**](12.02.22.md)   | **SUN**    | **M**   | **T**     | **W**     | **T2**    | **F**   | **SAT**    | **SUN**    |
+| **Subject**      | **Count** | **TRGT** | **SAT**  | **SUN**   | **M**   | **T**     | **W**     | **T2**    | **F**   | **SAT**    | **SUN**    |
 |------------------|-----------|----------|---------|-----------|---------|-----------|-----------|-----------|---------|-----------|-----------|
 | [Maths](Mth%20Index.md)            | 4         |     1    | N/A     | English   | Biology | Maths     | French    | Chemistry | Maths   | Biology   | Physics   |
 | [English](Eng%20Index.md)          | 4         |          | Maths   | Geography | French  | CS        | English   | French    | DT      | Chemistry | Geography |

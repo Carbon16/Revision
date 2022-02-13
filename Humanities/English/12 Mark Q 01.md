@@ -1,0 +1,9 @@
+# 4EA1/01R - Tuesday 5 June 2018
+
+
+1. "On top of the world", "Switzerland sized nation"
+2. The witer explores parts of bhutan and it's tiny towns. The author comments on how the towns have remained unchanged since it was first explored. The writers familliarity with old texts about bhutan indicates that she has reaserched it's past and has a strong interest in it. The writer also explores the more rural areas of bhutan, and describes how beautiful the area is. She also visits a world famous temple, and is in awe of how it allmost seems to be fantasy. The writer also watches some traditional practices and even participates in archery.
+3. We learn that the author views the hotels she is staying in as 'treating her like royalty'. This shows us that the bhutanese people are very accomadating and hospitable. We also learn that the hotels have incredibly high standards, just like in 'Tokyo or Venice'. This shows us that while bhutan may be behind the rest of the world in terms of development, it is certainly not behind in terms of hospitality. We also learn that the bhutanes hotels have a wide range of international food. The author describes how they eat enything 'from smoked salmon and tender Australian rib-eye steak to Bhutanese feasts coloured with chillies'. This shows us how while bhutan may be islated from the rest of the world, it must have sufficient trade connections to be able to source 'australian' food. Finally, we learn that the guides are very protective and that the bhutanes people are very polite, if not kind. We know this as she describes the people at the hotel as having 'sweet smiles' and her drivers as being 'kind hosts'. This may show the collective bhutanes pride in their nation.
+4. 
+
+#lang #greenpack

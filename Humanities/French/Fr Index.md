@@ -5,6 +5,10 @@ This is the french index. (duh)
 
 ## [Speaking](Speaking.md)
 
+#### To learn
+
+#### Sessions
+
 ## Reading
 
 ## Listening
