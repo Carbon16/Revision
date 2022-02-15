@@ -8,6 +8,8 @@ This is the french index. (duh)
 #### To learn
 
 #### Sessions
+1. [[14.02.22]]
+
 
 ## Reading
 

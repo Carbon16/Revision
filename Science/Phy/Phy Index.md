@@ -3,7 +3,7 @@
 This is the physics index. Most (all) of the physics notes are one one note. This will mainly just be for keeping track of work & results & stuff.
 
 ## Plan
-- [ ] Work throught the past papers on onenote (1)
+- [x] Work throught the past papers on onenote (1)
 - [ ] Do the topic specific revision for weak area
 - [ ] Do the AIS resouces
 

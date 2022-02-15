@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0857bd21da3b1617",
+        "id": "fbb8040abdc99f1b",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Files/IMG_2947.jpg"
+            "file": "Science/Phy/Phy Index.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -38,9 +40,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#General",
+                "query": "tag:#paper",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/IMG_2947.jpg",
+                "file": "Science/Phy/Phy Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,25 +87,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b866980879612f32",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "0857bd21da3b1617",
+  "active": "fbb8040abdc99f1b",
   "lastOpenFiles": [
-    "Files/IMG_2947.jpg",
-    "Daily Summary/13.02.22.md",
-    "README.md",
-    "Daily Summary/12.02.22.md",
-    "Humanities/English/Eng Index.md",
-    "Humanities/English/12 Mark Q 01.md",
-    "Maths/Mth Index.md",
-    "Humanities/French/Fr Index.md",
     "Science/Phy/Phy Index.md",
-    "Science/Com Sci/Com Sci Index.md"
+    "Daily Summary/15.02.22.md",
+    "Science/Chem/Chem Index.md",
+    "Daily Summary/14.02.22.md",
+    "Science/DT/DT Index.md",
+    "Maths/Mth Index.md",
+    "Science/Com Sci/Com Sci Index.md",
+    "Humanities/English/Eng Index.md",
+    "Daily Summary/12.02.22.md",
+    "Daily Summary/13.02.22.md"
   ]
 }

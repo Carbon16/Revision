@@ -18,48 +18,48 @@
       "query": "path:Humanities",
       "color": {
         "a": 1,
-        "rgb": 14745855
+        "rgb": 1179392
       }
     },
     {
       "query": "path:Science",
       "color": {
         "a": 1,
-        "rgb": 2883328
+        "rgb": 40447
       }
     },
     {
       "query": "path:Maths",
       "color": {
         "a": 1,
-        "rgb": 16759552
+        "rgb": 16711892
       }
     },
     {
-      "query": "path:Daily Summary",
+      "query": "path:\"Daily Summary\"",
       "color": {
         "a": 1,
-        "rgb": 4894862
+        "rgb": 65450
       }
     },
     {
       "query": "file:README",
       "color": {
         "a": 1,
-        "rgb": 43775
+        "rgb": 5419488
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.3,
-  "nodeSizeMultiplier": 1.31452991452991,
-  "lineSizeMultiplier": 2.4034188034188,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.717948717948718,
-  "repelStrength": 13.3333333333333,
-  "linkStrength": 0.478632478632479,
+  "centerStrength": 0.849465811965812,
+  "repelStrength": 11.3846153846154,
+  "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.88549895431505,
+  "scale": 0.8137713085498719,
   "close": false
 }
