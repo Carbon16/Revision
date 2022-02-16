@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/Phy/Phy Index.md",
-            "mode": "preview",
+            "file": "Humanities/English/Eng Index.md",
+            "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "66041cd457e3690d",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Files/Pasted image 20220216130954.png"
           }
         }
       }
@@ -42,11 +52,19 @@
               "state": {
                 "query": "tag:#paper",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "4a7cd55796fd9c4a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -69,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Phy/Phy Index.md",
+                "file": "Humanities/English/Eng Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +113,39 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9f19853d9cf7904d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Humanities/English/Eng Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73b27ba34daadada",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78346f57e3106e4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Humanities/English/Eng Index.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -106,15 +157,15 @@
   },
   "active": "fbb8040abdc99f1b",
   "lastOpenFiles": [
-    "Science/Phy/Phy Index.md",
-    "Daily Summary/15.02.22.md",
-    "Science/Chem/Chem Index.md",
-    "Daily Summary/14.02.22.md",
-    "Science/DT/DT Index.md",
-    "Maths/Mth Index.md",
-    "Science/Com Sci/Com Sci Index.md",
     "Humanities/English/Eng Index.md",
-    "Daily Summary/12.02.22.md",
-    "Daily Summary/13.02.22.md"
+    "Daily Summary/16.02.22.md",
+    "Files/Pasted image 20220216130954.png",
+    "Files/IMG_2947.jpg",
+    "Daily Summary/15.02.22.md",
+    "README.md",
+    "Humanities/English/12 Mark Q 01.md",
+    "Daily Summary/13.02.22.md",
+    "Humanities/English/Walking talking paper 1.md",
+    "Daily Summary/14.02.22.md"
   ]
 }
