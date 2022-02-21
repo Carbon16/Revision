@@ -8,7 +8,7 @@ This is the french index. (duh)
 #### To learn
 
 #### Sessions
-1. [[14.02.22]]
+1. [14.02.22](14.02.22.md)
 
 
 ## Reading

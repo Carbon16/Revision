@@ -6,7 +6,7 @@ I'm going to work through the CGP book.
 
 ## Sessions
 1. [13.02.22](13.02.22.md)
-2. [[15.02.22]]
+2. [15.02.22](15.02.22.md)
 
 ## To revise
 - [ ] Organics

@@ -4,7 +4,8 @@ I'm going to work through the firefly tasks.
 
 ## Sessions
 1. [12.02.22](12.02.22.md)
-2. [[15.02.22]]
+2. [15.02.22](15.02.22.md)
+3. [16.02.22](16.02.22.md)
 
 
 ## To revise
@@ -16,7 +17,7 @@ I'm going to work through the firefly tasks.
 - [x] Percentage change
 - [x] Graphical equations
 - [ ] Circle Theorems
-- [x] Surds
+- [ ] Surds
 - [ ] Similar shapes
 - [ ] Sine & Cosine
 - [ ] *Stationary Points*

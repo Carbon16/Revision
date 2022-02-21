@@ -1,5 +1,5 @@
 # 4EA1/01R - Tuesday 5 June 2018
-([[#Plan for 5]])
+([#Plan for 5](#Plan%20for%205))
 
 1. "On top of the world", "Switzerland sized nation"
 2. The witer explores parts of bhutan and it's tiny towns. The author comments on how the towns have remained unchanged since it was first explored. The writers familliarity with old texts about bhutan indicates that she has reaserched it's past and has a strong interest in it. The writer also explores the more rural areas of bhutan, and describes how beautiful the area is. She also visits a world famous temple, and is in awe of how it allmost seems to be fantasy. The writer also watches some traditional practices and even participates in archery.

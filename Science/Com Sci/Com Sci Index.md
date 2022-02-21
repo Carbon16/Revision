@@ -7,6 +7,6 @@ Just revise devices and stuff.
 ## Paper 2 (everything else)
 
 ## Sessions
-1. [[15.02.22]]
+1. [15.02.22](15.02.22.md)
 
 #Index #todo
