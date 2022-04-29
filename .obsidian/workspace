@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "fbb8040abdc99f1b",
   "lastOpenFiles": [
-    "README.md",
-    "Daily Summary/21.02.22.md",
-    "Daily Summary/16.02.22.md",
-    "Daily Summary/19.02.22.md",
-    "Temp/Daily.md",
-    "Files/Pasted image 20220216130954.png",
-    "Files/IMG_2947.jpg",
-    "Files/Human Question Paper.pdf",
+    "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
+    "Science/Com Sci/Com Sci Index.md",
     "Daily Summary/14.02.22.md",
-    "Maths/Mth Index.md"
+    "Science/Bio/Bio Index.md",
+    "Maths/Mth Index.md",
+    "Temp/Index.md",
+    "Temp/Daily.md",
+    "Science/Phy/Phy Index.md",
+    "Daily Summary/26.02.22.md",
+    "Daily Summary/15.02.22.md"
   ]
 }

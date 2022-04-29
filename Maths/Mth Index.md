@@ -16,8 +16,8 @@ I'm going to work through the firefly tasks.
 - [x] Ratio
 - [x] Percentage change
 - [x] Graphical equations
-- [ ] Circle Theorems
-- [ ] Surds
+- [x] Circle Theorems
+- [x] Surds
 - [ ] Similar shapes
 - [ ] Sine & Cosine
 - [ ] *Stationary Points*
