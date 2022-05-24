@@ -15,6 +15,10 @@
 * Lennie must be killed by George to protect him
 * Breaks Curley’s hand
 
+## Quotes
+* 'Guys like us, that work on ranches, are the loneliest guys in the world. They got no family. They don't belong no place. … With us it ain't like that. We got a future.' - *George to Lennie Ch1*
+* 
+
 ## Themes
 
 * Loneliness
@@ -50,7 +54,7 @@ Because Steinbeck's message of marginalisation and the microcosm of how individu
 
 Lennie looks up to Goerge, as George has the responsibility of looking out for Lennie and therefore Lennie wants to please George, as Geroge is his sole friend and carer. 
 
-#### The companionship of between George and Lennie. 
+#### The companionship between George and Lennie. 
 
 Geroge and Lennie has a unbalanced power in the relationship, as Lennie is willing to do anything in order to win George's approval, while Geroge is sometimes reluctant to look after or take responsibility for Lennie. 
 

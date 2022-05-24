@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
+            "file": "Humanities/English/OMAM/OMAM QUOTES.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
+                "file": "Humanities/English/OMAM/OMAM QUOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
+                "file": "Humanities/English/OMAM/OMAM QUOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +134,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md"
+                "file": "Humanities/English/OMAM/OMAM QUOTES.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,15 +147,15 @@
   },
   "active": "fbb8040abdc99f1b",
   "lastOpenFiles": [
-    "Science/Com Sci/Com Sci Index-LGS-LAPTOP.md",
-    "Science/Com Sci/Com Sci Index.md",
-    "Daily Summary/14.02.22.md",
-    "Science/Bio/Bio Index.md",
-    "Maths/Mth Index.md",
-    "Temp/Index.md",
-    "Temp/Daily.md",
-    "Science/Phy/Phy Index.md",
-    "Daily Summary/26.02.22.md",
-    "Daily Summary/15.02.22.md"
+    "Humanities/English/OMAM/OMAM QUOTES.md",
+    "Humanities/English/OMAM/OMAM index.md",
+    "Humanities/English/OMAM/OMAM Lonliness.md",
+    "Humanities/English/OMAM/OMAM Lennie.md",
+    "Humanities/English/ENGLISH LIT PAPER 1.md",
+    "Humanities/English/Walking talking paper.md",
+    "Humanities/English/Eng Index.md",
+    "README.md",
+    "Humanities/English/12 Mark Q.md",
+    "Files/Pasted image 20220216130954.png"
   ]
 }

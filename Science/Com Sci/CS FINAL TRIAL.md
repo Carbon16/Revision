@@ -3,11 +3,11 @@
 **0984/12**
 
 ## To improve
-- [ ] Data transmission
-- [ ] WP all answers
-- [ ] Assembler
-- [ ] Interrupts
-- [ ] Do not simplify
+- [x] Data transmission
+- [x] WP all answers
+- [x] Assembler
+- [x] Interrupts
+- [x] Do not simplify
 
 ## Marks lost
 * 1: 8/9

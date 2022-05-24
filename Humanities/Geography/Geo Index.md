@@ -9,11 +9,17 @@ This is the geography index page. (duh)
 
 
 ## Human
-- [x] Use the source!
-- [x] Finish 8 markers
-- [ ] Revise case studies
+* Many things :(
 
 ## Physical
+* [[RIVERS]]
+* [[HAZARDS]]
+* [[]]
+
+
+
+
+
 
 ## Papers
 ![Human Question Paper](Human%20Question%20Paper.pdf)

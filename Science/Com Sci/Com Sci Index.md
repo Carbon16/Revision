@@ -7,11 +7,11 @@ This is the computer science index. (duh). This is where I'll put exams and stuf
 
 
 ### To revise
-- [ ] **HEX AND BIN**
-- [ ] **Parity**
-- [ ] *Key terms*
-- [ ] Common sense
-- [ ] Develop points more
+- [x] **HEX AND BIN**
+- [x] **Parity**
+- [x] *Key terms*
+- [x] Common sense
+- [x] Develop points more
 
 ## FEB EXAM
 
@@ -94,6 +94,3 @@ This is the computer science index. (duh). This is where I'll put exams and stuf
 * Q10: 4/6
     - Swapped last two around
     - Still made sense/was correct, but you know.
-
-
-
